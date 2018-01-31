@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "A New Hugo Site"
+title = "A Great New Hugo Site"
 theme = "ananke"
 contentDir = "content"
 layoutDir = "layouts"
